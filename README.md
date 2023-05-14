@@ -1,1 +1,1 @@
-fix non-coco val
+Mkdocs annotations fixes (#7600)
