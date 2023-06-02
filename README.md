@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Expand Model method type hinting (#8279)
