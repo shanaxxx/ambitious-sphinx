@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
