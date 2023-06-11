@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
