@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
