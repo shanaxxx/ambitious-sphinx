@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Update Colab notebook for YOLOv8.1 (#8660)
