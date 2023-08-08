@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
