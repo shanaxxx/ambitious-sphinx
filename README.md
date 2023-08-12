@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
