@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add integrations/gradio Docs page (#7935)
