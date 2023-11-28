@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add Neural Magic Docs integrations page (#7234)
