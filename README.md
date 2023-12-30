@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
