@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
