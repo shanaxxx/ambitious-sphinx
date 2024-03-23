@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
