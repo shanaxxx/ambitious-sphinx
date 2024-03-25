@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
