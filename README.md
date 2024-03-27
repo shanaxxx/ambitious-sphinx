@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Fix Multi-GPU resume bug (#7328)
