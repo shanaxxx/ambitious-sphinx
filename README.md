@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
