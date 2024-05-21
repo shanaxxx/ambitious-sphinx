@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
