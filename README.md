@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
