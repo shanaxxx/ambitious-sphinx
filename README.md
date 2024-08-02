@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
