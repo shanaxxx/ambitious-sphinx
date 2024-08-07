@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Explorer with LanceDB, Actions and Docs updates (#7487)
