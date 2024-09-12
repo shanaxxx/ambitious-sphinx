@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
