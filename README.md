@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Cleanup Docs languages (#7865)
