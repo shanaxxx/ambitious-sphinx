@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Add YOLOv8 LibTorch C++ inference example (#7090)
