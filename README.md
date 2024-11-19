@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
